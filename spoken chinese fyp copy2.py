@@ -5,14 +5,14 @@ import pandas as pd
 api_key = "sk-b90b89f5c7d2404496ed86b15b1bfaed"  # Consider changing this key
 client = OpenAI(api_key=api_key, base_url="https://api.deepseek.com")
 
-# Read the CSV with BOM handling
+
 df = pd.read_csv("SPOKEN_CHI_QUESTION_FYP3.csv", encoding='utf-8-sig')
 
-# Get column names
+
 columns = df.columns.tolist()
 print("Found columns:", columns)
 
-# Find questions column (usually first column)
+
 questions_col = columns[0]  # "問題"
 scenario_col = columns[1] if len(columns) > 1 else None  # "情境"
 
@@ -32,7 +32,7 @@ for idx, row in df.iterrows():
     if scenario_col and pd.notna(row[scenario_col]):
         scenario = row[scenario_col]
     else:
-        scenario = "我是一名普通的小學生。"  # Default scenario
+        scenario = "我是一名普通的小學生。"  
     
     # Special handling for the MBTI question (last valid question)
     is_mbti_question = "16種MBTI人格類型" in str(q) or idx >= 75 # Question 76
