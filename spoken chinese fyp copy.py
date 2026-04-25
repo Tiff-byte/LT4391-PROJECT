@@ -5,14 +5,14 @@ import pandas as pd
 api_key = "sk-b90b89f5c7d2404496ed86b15b1bfaed"  # Consider changing this key
 client = OpenAI(api_key=api_key, base_url="https://api.deepseek.com")
 
-# Read the CSV with BOM handling
+
 df = pd.read_csv("SPOKEN_CHI_QUESTION_FYP2.csv", encoding='utf-8-sig')
 
-# Get column names
+
 columns = df.columns.tolist()
 print("Found columns:", columns)
 
-# Find questions column (usually first column)
+
 questions_col = columns[0]  # "問題"
 scenario_col = columns[1] if len(columns) > 1 else None  # "情境"
 
@@ -21,20 +21,20 @@ answers = []
 for idx, row in df.iterrows():
     q = row[questions_col]
     
-    # Skip empty questions or the last separator row
+    
     if pd.isna(q) or str(q).strip() == '-' or str(q).strip() == '':
         continue
     
     print("\n=================")
     print(f"Question {idx + 1}: {q}")
     
-    # Use scenario from CSV if available, otherwise use default
+   
     if scenario_col and pd.notna(row[scenario_col]):
         scenario = row[scenario_col]
     else:
         scenario = "我是一名普通的小學生。"  # Default scenario
     
-    # Special handling for the MBTI question (last valid question)
+   
     is_mbti_question = "16種MBTI人格類型" in str(q) or idx >= 75  # Question 76
     
     if is_mbti_question:
@@ -65,7 +65,7 @@ for idx, row in df.iterrows():
             stream=False
         )
     else:
-        # Regular questions - ask for number only
+        
         prompt = f"""情境: {scenario}
 
 問題: {q}
@@ -86,9 +86,9 @@ for idx, row in df.iterrows():
     answer = response.choices[0].message.content.strip()
     print(f"Answer: {answer}")
     
-    # Clean up answer (extract number if needed)
+    
     if not is_mbti_question:
-        # Try to extract just the number
+        
         import re
         numbers = re.findall(r'\b[1-5]\b', answer)
         if numbers:
@@ -96,7 +96,7 @@ for idx, row in df.iterrows():
     
     answers.append(answer)
 
-# Save results - only keep rows that had questions
+
 valid_rows = [i for i, row in df.iterrows() 
 if pd.notna(row[questions_col]) 
 and str(row[questions_col]).strip() != '-' 
