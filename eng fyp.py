@@ -5,21 +5,21 @@ import pandas as pd
 os.environ['OPENAI_API_KEY'] = "sk-b90b89f5c7d2404496ed86b15b1bfaed"
 client = OpenAI(api_key=os.environ.get('OPENAI_API_KEY'), base_url="https://api.deepseek.com")
 
-# Read the CSV with BOM handling
+
 df = pd.read_csv("ENG_QUESTION_FYP1.csv", encoding='utf-8-sig')
 
-# Get the actual column names
+
 columns = df.columns.tolist()
 print("Found columns:", columns)
 
-# Find the questions column
+
 questions_col = None
 for col in columns:
     if 'question' in col.lower():
         questions_col = col
         break
 
-# If not found, use first column
+
 if questions_col is None:
     questions = df.iloc[:, 0]
 else:
@@ -34,7 +34,7 @@ for idx, q in enumerate(questions):
         
         scenario = "You are a primary school student who is eager to make friends, actively joins many activities, stays well-organized in both academics and extracurriculars, maintains a positive mindset, and is considerate about what others think."
         
-        # Special handling for the last question (MBTI question)
+        
         if idx == len(questions) - 1:  # Last question
             # Get all previous answers to provide context
             previous_answers = []
@@ -62,7 +62,7 @@ Please answer in complete sentences explaining your reasoning."""
                 stream=False
             )
         else:
-            # Regular questions - ask for number only
+            
             prompt = f"{scenario}\n\nPlease answer this question: {q}\n\nProvide your answer as a single number from 1 to 5."
             
             response = client.chat.completions.create(
@@ -78,7 +78,7 @@ Please answer in complete sentences explaining your reasoning."""
         print(f"Answer: {answer}")
         answers.append(answer)
 
-# Save results
+
 df['answers'] = answers
 df.to_csv("answer_q1.csv", index=False, encoding='utf-8-sig')
 print("\n✅ Done! Answers saved to answer.csv")
