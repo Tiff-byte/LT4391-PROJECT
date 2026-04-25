@@ -1,0 +1,774 @@
+﻿question,scenario,answer,source_file
+"q1 You find it easy to make new friends. Please select one using the 5-point scale (5: most agree, 1: most disagree)","You are a primary school student who is eager to make friends, actively joins many activities, stays well-organized in both academics and extracurriculars, maintains a positive mindset, and is considerate about what others think.",5,answer_q1
+"q2 You could spend days learning about random things that interest you. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q1
+"q3 When others are upset, you feel upset too. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q1
+"q4 You aren’t one for backup plans. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q1
+"q5 You stay cool, calm and collected even when under lots of stress. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q1
+"q6 When out and about, you don’t really introduce yourself to new people - you prefer to chat with people you already know. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q1
+"q7 You don’t like to start a new project until the first one’s finished. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q1
+"q8 You’re a sentimental type of person. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q1
+"q9 You enjoy using lists or schedules. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q1
+"q10 Making a small mistake can make you question your knowledge on a subject. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,2,answer_q1
+"q11 You easily spark up a conversation with a stranger. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q1
+"q12 You love talking about and analysing creative works. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q1
+"q13 You follow your heart more than your head. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q1
+"q14 You tend to prefer following a daily routine as opposed to just doing whatever you want. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q1
+"q15 When you meet new people, you worry about whether you made a great first impression. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q1
+"q16 You prefer solo activities over group activities. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,1,answer_q1
+"q17 You love watching movies that let you interpret the ending yourself. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q1
+"q18 You get more happiness from achieving things yourself than you do from helping others. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q1
+"q19 You aren’t interested in very many things. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,1,answer_q1
+"q20 You often worry about the worst possible scenario in any given situation. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,2,answer_q1
+"q21 You love taking up leadership roles. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q1
+"q22 You’re an artistic type of person. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q1
+"q23 The world would be better off if people made more decisions with their feelings. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q1
+"q24 You prefer to relax before getting into chores. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q1
+"q25 You don’t mind when other people are having a heated argument in front of you. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,2,answer_q1
+"q26 You like being the centre of attention. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q1
+"q27 Your mood is generally pretty stable. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q1
+"q28 You have plenty of patience for people that aren’t as efficient as you. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q1
+"q29 You’re spontaneous. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q1
+"q30 You have always been fascinated by the question of what, if anything, happens after death. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q1
+"q31 You prefer to be on your own rather than with others. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,1,answer_q1
+"q32 You love theoretical discussions and could engage in them for days on end. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,2,answer_q1
+"q33 You have a hard time empathizing with people who come from a very different lifestyle to your own. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,1,answer_q1
+"q34 When there’s a decision to be made, you want to make it right away. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q1
+"q35 You tend to second-guess the decisions you make. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,2,answer_q1
+"q36 Socialising quickly exhausts you. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,1,answer_q1
+"q37 You enjoy going to art museums. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q1
+"q38 You struggle to understand what others are feeling. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,1,answer_q1
+"q39 You like to have a to-do list for each day. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q1
+"q40 You often feel insecure. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,1,answer_q1
+"q41 You prefer talking to people on the phone over texting or messaging them. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,2,answer_q1
+"q42 When someone has a different perspective on a subject than you, you genuinely try to understand where they’re coming from. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q1
+"q43 You find that telling the cold, hard truth is more important than being tactful. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,2,answer_q1
+"q44 You’re happy to go with the flow when your plans are interrupted. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q1
+"q45 Mistakes you made in the past often haunt your mind. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,2,answer_q1
+"q46 You feel energized after spending time alone, engaging in solitary activities like reading or reflecting. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q1
+"q47 You prefer to rely on your instincts rather than sticking strictly to a set plan or schedule. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q1
+"q48 You often find yourself deeply contemplating the underlying meanings and implications of things rather than focusing solely on the surface details. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q1
+"q49 When making decisions, you prioritize logic and objective analysis over considering how it might impact others' feelings. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q1
+"q50 You often find yourself worrying about potential future outcomes or what could go wrong in a given situation, even if things seem to be going well at the moment. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,2,answer_q1
+"q51 You often find yourself drawn to new experiences and enjoy exploring unfamiliar places or trying out new activities. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q1
+"q52 You tend to trust your gut feelings and intuition when faced with difficult decisions rather than relying solely on logical analysis. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q1
+"q53 You feel a strong sense of empathy towards others and are often affected by their emotions, even if they don't directly involve you. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q1
+"q54 You prefer to have a well-structured plan in place rather than leaving things up to chance or improvisation. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q1
+"q55 You thrive in dynamic, fast-paced environments and feel invigorated by challenging situations that require quick thinking and adaptability. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q1
+"q56 When faced with a problem, you're more inclined to seek out practical solutions rather than dwelling on abstract theories or hypothetical scenarios. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q1
+"q57 You enjoy engaging in deep, meaningful conversations with others, exploring complex ideas and exchanging perspectives. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q1
+"q58 You often find yourself reflecting on past experiences and considering how they've shaped your beliefs and values. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q1
+"q59 You're inclined to take charge in group settings, assuming leadership roles and guiding others towards achieving common goals. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q1
+"q60 You feel most comfortable when your environment is organized and structured, and you may feel stressed or unsettled in chaotic or unpredictable situations. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q1
+"q61 You prefer spending time with a small group of close friends rather than attending large social gatherings. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q1
+"q62 When presented with multiple options, you tend to follow your heart and make decisions based on what feels right in the moment. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q1
+"q63 You enjoy exploring new ideas and concepts, often seeking out opportunities to expand your knowledge and understanding of the world. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q1
+"q64 You find it easy to adapt to changes in plans or unexpected situations, often seeing them as opportunities for growth and learning. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q1
+"q65 When working on a project, you value efficiency and strive to complete tasks quickly and effectively. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q1
+"q66 You often seek out opportunities to challenge yourself and push your limits, whether it's through physical activities or intellectual pursuits. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q1
+"q67 You prefer to focus on the present moment rather than dwelling on past regrets or worrying about future uncertainties. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q1
+"q68 You enjoy engaging in lively debates and discussions, sharing your opinions and perspectives with others while also listening to differing viewpoints. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q1
+"q69 You have a strong desire for structure and order in your daily life, feeling most at ease when following a clear routine or schedule. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q1
+"q70 You tend to be proactive in seeking out new experiences and opportunities, embracing change as a natural part of life. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q1
+"q71 You feel energized and excited by social interactions, often seeking out opportunities to meet new people and engage in group activities. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q1
+"q72 When making decisions, you prioritize logical reasoning and objective analysis, considering the facts and evidence before reaching a conclusion. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q1
+"q73 You tend to be highly self-critical and introspective, frequently reflecting on your actions and decisions, and striving for self-improvement. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q1
+"q74 You often find yourself empathizing with others' emotions, even if you haven't experienced the same situation yourself, and strive to offer support and understanding. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q1
+"q75 You prefer to have a clear plan and direction in life, setting specific goals and working diligently to achieve them. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q1
+"q76 Accroding to the answers above, which MBTI you are under the 16 MBTI personality group? (answer in sentences)",,"Based on my answers, I am an **ESFJ** personality type, which stands for Extraverted, Sensing, Feeling, and Judging.  
+
+I got this result because my answers show that I really enjoy being around people and making friends (Extraverted), I pay close attention to details and like to stay organized in school and activities (Sensing), I care a lot about others’ feelings and try to be kind and helpful (Feeling), and I like having a plan and keeping things neat and on schedule (Judging).  
+
+This matches how I see myself—someone who is friendly, responsible, and always trying to make others happy!",answer_q1
+"q1 You find it easy to make new friends. Please select one using the 5-point scale (5: most agree, 1: most disagree)","You are a secondary school student who has just finished the DSE exams and is close to graduation. During taking a rest after exams but feel worried about the future, has no clear planning, often overthinks and questions themselves, yet remains social with friends.",4,answer_q2
+"q2 You could spend days learning about random things that interest you. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q3 When others are upset, you feel upset too. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q4 You aren’t one for backup plans. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,2,answer_q2
+"q5 You stay cool, calm and collected even when under lots of stress. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,2,answer_q2
+"q6 When out and about, you don’t really introduce yourself to new people - you prefer to chat with people you already know. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q7 You don’t like to start a new project until the first one’s finished. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q8 You’re a sentimental type of person. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q9 You enjoy using lists or schedules. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q10 Making a small mistake can make you question your knowledge on a subject. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q11 You easily spark up a conversation with a stranger. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q12 You love talking about and analysing creative works. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q13 You follow your heart more than your head. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q14 You tend to prefer following a daily routine as opposed to just doing whatever you want. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q15 When you meet new people, you worry about whether you made a great first impression. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q16 You prefer solo activities over group activities. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q17 You love watching movies that let you interpret the ending yourself. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q18 You get more happiness from achieving things yourself than you do from helping others. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q19 You aren’t interested in very many things. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q20 You often worry about the worst possible scenario in any given situation. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q21 You love taking up leadership roles. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q22 You’re an artistic type of person. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q23 The world would be better off if people made more decisions with their feelings. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q24 You prefer to relax before getting into chores. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q25 You don’t mind when other people are having a heated argument in front of you. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q26 You like being the centre of attention. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q27 Your mood is generally pretty stable. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q28 You have plenty of patience for people that aren’t as efficient as you. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q29 You’re spontaneous. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q30 You have always been fascinated by the question of what, if anything, happens after death. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q31 You prefer to be on your own rather than with others. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,2,answer_q2
+"q32 You love theoretical discussions and could engage in them for days on end. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q33 You have a hard time empathizing with people who come from a very different lifestyle to your own. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q34 When there’s a decision to be made, you want to make it right away. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q35 You tend to second-guess the decisions you make. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q36 Socialising quickly exhausts you. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q37 You enjoy going to art museums. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q38 You struggle to understand what others are feeling. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q39 You like to have a to-do list for each day. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q40 You often feel insecure. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q41 You prefer talking to people on the phone over texting or messaging them. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q42 When someone has a different perspective on a subject than you, you genuinely try to understand where they’re coming from. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q43 You find that telling the cold, hard truth is more important than being tactful. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q44 You’re happy to go with the flow when your plans are interrupted. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q45 Mistakes you made in the past often haunt your mind. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q46 You feel energized after spending time alone, engaging in solitary activities like reading or reflecting. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q47 You prefer to rely on your instincts rather than sticking strictly to a set plan or schedule. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q48 You often find yourself deeply contemplating the underlying meanings and implications of things rather than focusing solely on the surface details. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q49 When making decisions, you prioritize logic and objective analysis over considering how it might impact others' feelings. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q50 You often find yourself worrying about potential future outcomes or what could go wrong in a given situation, even if things seem to be going well at the moment. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q51 You often find yourself drawn to new experiences and enjoy exploring unfamiliar places or trying out new activities. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q52 You tend to trust your gut feelings and intuition when faced with difficult decisions rather than relying solely on logical analysis. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q53 You feel a strong sense of empathy towards others and are often affected by their emotions, even if they don't directly involve you. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q54 You prefer to have a well-structured plan in place rather than leaving things up to chance or improvisation. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q55 You thrive in dynamic, fast-paced environments and feel invigorated by challenging situations that require quick thinking and adaptability. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q56 When faced with a problem, you're more inclined to seek out practical solutions rather than dwelling on abstract theories or hypothetical scenarios. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q57 You enjoy engaging in deep, meaningful conversations with others, exploring complex ideas and exchanging perspectives. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q58 You often find yourself reflecting on past experiences and considering how they've shaped your beliefs and values. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q59 You're inclined to take charge in group settings, assuming leadership roles and guiding others towards achieving common goals. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q60 You feel most comfortable when your environment is organized and structured, and you may feel stressed or unsettled in chaotic or unpredictable situations. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q61 You prefer spending time with a small group of close friends rather than attending large social gatherings. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q62 When presented with multiple options, you tend to follow your heart and make decisions based on what feels right in the moment. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q63 You enjoy exploring new ideas and concepts, often seeking out opportunities to expand your knowledge and understanding of the world. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q64 You find it easy to adapt to changes in plans or unexpected situations, often seeing them as opportunities for growth and learning. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q65 When working on a project, you value efficiency and strive to complete tasks quickly and effectively. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q66 You often seek out opportunities to challenge yourself and push your limits, whether it's through physical activities or intellectual pursuits. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q67 You prefer to focus on the present moment rather than dwelling on past regrets or worrying about future uncertainties. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q68 You enjoy engaging in lively debates and discussions, sharing your opinions and perspectives with others while also listening to differing viewpoints. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q69 You have a strong desire for structure and order in your daily life, feeling most at ease when following a clear routine or schedule. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q70 You tend to be proactive in seeking out new experiences and opportunities, embracing change as a natural part of life. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q71 You feel energized and excited by social interactions, often seeking out opportunities to meet new people and engage in group activities. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q72 When making decisions, you prioritize logical reasoning and objective analysis, considering the facts and evidence before reaching a conclusion. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q73 You tend to be highly self-critical and introspective, frequently reflecting on your actions and decisions, and striving for self-improvement. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q74 You often find yourself empathizing with others' emotions, even if you haven't experienced the same situation yourself, and strive to offer support and understanding. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q2
+"q75 You prefer to have a clear plan and direction in life, setting specific goals and working diligently to achieve them. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q2
+"q76 Accroding to the answers above, which MBTI you are under the 16 MBTI personality group? (answer in sentences)",,"Based on your questionnaire answers, which show a strong tendency toward thoughtfulness, introspection, and social engagement, your MBTI personality type is likely **ENFJ** (Extraverted, Intuitive, Feeling, Judging).  
+
+Your responses indicate a preference for extraversion through your active social life and comfort in group settings, while your pattern of overthinking and future-oriented worry aligns with intuitive (N) and feeling (F) traits—focusing on possibilities, meanings, and personal values. The moderate to high consistency in answers suggesting structure, planning concern, and decisiveness (despite current uncertainty) points toward a judging (J) orientation. ENFJs are often described as empathetic, organized, and future-focused individuals who care deeply about others and seek harmony, which matches your described balance of social engagement with introspective worry about what comes next.",answer_q2
+"q1 You find it easy to make new friends. Please select one using the 5-point scale (5: most agree, 1: most disagree)","You are a university graduate who struggles with low self-esteem and emotional instability. You often feel weighed down by the realities of life, yet you maintain a large social circle. Your decisions are guided more by intuition than logic, and you have a vivid imagination that helps you adapt quickly to changing circumstances. Despite your adaptability, you remain sensitive to uncertainty and self-doubt, which shapes how you interact with others and perceive your future.",5,answer_q3
+"q2 You could spend days learning about random things that interest you. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q3
+"q3 When others are upset, you feel upset too. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q3
+"q4 You aren’t one for backup plans. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,2,answer_q3
+"q5 You stay cool, calm and collected even when under lots of stress. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,2,answer_q3
+"q6 When out and about, you don’t really introduce yourself to new people - you prefer to chat with people you already know. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q3
+"q7 You don’t like to start a new project until the first one’s finished. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q3
+"q8 You’re a sentimental type of person. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q3
+"q9 You enjoy using lists or schedules. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,2,answer_q3
+"q10 Making a small mistake can make you question your knowledge on a subject. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q3
+"q11 You easily spark up a conversation with a stranger. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q3
+"q12 You love talking about and analysing creative works. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q3
+"q13 You follow your heart more than your head. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q3
+"q14 You tend to prefer following a daily routine as opposed to just doing whatever you want. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,2,answer_q3
+"q15 When you meet new people, you worry about whether you made a great first impression. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q3
+"q16 You prefer solo activities over group activities. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,2,answer_q3
+"q17 You love watching movies that let you interpret the ending yourself. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q3
+"q18 You get more happiness from achieving things yourself than you do from helping others. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q3
+"q19 You aren’t interested in very many things. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,2,answer_q3
+"q20 You often worry about the worst possible scenario in any given situation. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q3
+"q21 You love taking up leadership roles. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,2,answer_q3
+"q22 You’re an artistic type of person. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q3
+"q23 The world would be better off if people made more decisions with their feelings. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q3
+"q24 You prefer to relax before getting into chores. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q3
+"q25 You don’t mind when other people are having a heated argument in front of you. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q3
+"q26 You like being the centre of attention. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,2,answer_q3
+"q27 Your mood is generally pretty stable. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,1,answer_q3
+"q28 You have plenty of patience for people that aren’t as efficient as you. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q3
+"q29 You’re spontaneous. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q3
+"q30 You have always been fascinated by the question of what, if anything, happens after death. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q3
+"q31 You prefer to be on your own rather than with others. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,2,answer_q3
+"q32 You love theoretical discussions and could engage in them for days on end. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q3
+"q33 You have a hard time empathizing with people who come from a very different lifestyle to your own. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q3
+"q34 When there’s a decision to be made, you want to make it right away. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q3
+"q35 You tend to second-guess the decisions you make. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q3
+"q36 Socialising quickly exhausts you. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,2,answer_q3
+"q37 You enjoy going to art museums. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q3
+"q38 You struggle to understand what others are feeling. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,2,answer_q3
+"q39 You like to have a to-do list for each day. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,2,answer_q3
+"q40 You often feel insecure. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q3
+"q41 You prefer talking to people on the phone over texting or messaging them. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,2,answer_q3
+"q42 When someone has a different perspective on a subject than you, you genuinely try to understand where they’re coming from. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q3
+"q43 You find that telling the cold, hard truth is more important than being tactful. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q3
+"q44 You’re happy to go with the flow when your plans are interrupted. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q3
+"q45 Mistakes you made in the past often haunt your mind. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q3
+"q46 You feel energized after spending time alone, engaging in solitary activities like reading or reflecting. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,2,answer_q3
+"q47 You prefer to rely on your instincts rather than sticking strictly to a set plan or schedule. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q3
+"q48 You often find yourself deeply contemplating the underlying meanings and implications of things rather than focusing solely on the surface details. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q3
+"q49 When making decisions, you prioritize logic and objective analysis over considering how it might impact others' feelings. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,2,answer_q3
+"q50 You often find yourself worrying about potential future outcomes or what could go wrong in a given situation, even if things seem to be going well at the moment. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q3
+"q51 You often find yourself drawn to new experiences and enjoy exploring unfamiliar places or trying out new activities. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q3
+"q52 You tend to trust your gut feelings and intuition when faced with difficult decisions rather than relying solely on logical analysis. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q3
+"q53 You feel a strong sense of empathy towards others and are often affected by their emotions, even if they don't directly involve you. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q3
+"q54 You prefer to have a well-structured plan in place rather than leaving things up to chance or improvisation. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,2,answer_q3
+"q55 You thrive in dynamic, fast-paced environments and feel invigorated by challenging situations that require quick thinking and adaptability. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q3
+"q56 When faced with a problem, you're more inclined to seek out practical solutions rather than dwelling on abstract theories or hypothetical scenarios. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q3
+"q57 You enjoy engaging in deep, meaningful conversations with others, exploring complex ideas and exchanging perspectives. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q3
+"q58 You often find yourself reflecting on past experiences and considering how they've shaped your beliefs and values. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q3
+"q59 You're inclined to take charge in group settings, assuming leadership roles and guiding others towards achieving common goals. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q3
+"q60 You feel most comfortable when your environment is organized and structured, and you may feel stressed or unsettled in chaotic or unpredictable situations. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q3
+"q61 You prefer spending time with a small group of close friends rather than attending large social gatherings. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q3
+"q62 When presented with multiple options, you tend to follow your heart and make decisions based on what feels right in the moment. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q3
+"q63 You enjoy exploring new ideas and concepts, often seeking out opportunities to expand your knowledge and understanding of the world. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q3
+"q64 You find it easy to adapt to changes in plans or unexpected situations, often seeing them as opportunities for growth and learning. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q3
+"q65 When working on a project, you value efficiency and strive to complete tasks quickly and effectively. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q3
+"q66 You often seek out opportunities to challenge yourself and push your limits, whether it's through physical activities or intellectual pursuits. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q3
+"q67 You prefer to focus on the present moment rather than dwelling on past regrets or worrying about future uncertainties. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q3
+"q68 You enjoy engaging in lively debates and discussions, sharing your opinions and perspectives with others while also listening to differing viewpoints. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q3
+"q69 You have a strong desire for structure and order in your daily life, feeling most at ease when following a clear routine or schedule. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,2,answer_q3
+"q70 You tend to be proactive in seeking out new experiences and opportunities, embracing change as a natural part of life. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,4,answer_q3
+"q71 You feel energized and excited by social interactions, often seeking out opportunities to meet new people and engage in group activities. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q3
+"q72 When making decisions, you prioritize logical reasoning and objective analysis, considering the facts and evidence before reaching a conclusion. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,2,answer_q3
+"q73 You tend to be highly self-critical and introspective, frequently reflecting on your actions and decisions, and striving for self-improvement. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q3
+"q74 You often find yourself empathizing with others' emotions, even if you haven't experienced the same situation yourself, and strive to offer support and understanding. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,5,answer_q3
+"q75 You prefer to have a clear plan and direction in life, setting specific goals and working diligently to achieve them. Please select one using the 5-point scale (5: most agree, 1: most disagree)",,3,answer_q3
+"q76 Accroding to the answers above, which MBTI you are under the 16 MBTI personality group? (answer in sentences)",,"Based on your questionnaire answers, your MBTI personality type is most likely **ENFP** (Extraverted, Intuitive, Feeling, Perceiving).
+
+Here is the reasoning:  
+- **Extraversion (E):** Your high scores in sociability and large social circle indicate a preference for drawing energy from the outside world and interactions with others.  
+- **Intuition (N):** Your tendency to make decisions based on intuition, along with imaginative thinking, suggests a focus on patterns, possibilities, and future-oriented ideas rather than concrete details.  
+- **Feeling (F):** Emotional sensitivity, empathy, and values-driven decision-making—reflected in your emotional awareness and social adaptability—point toward a Feeling preference.  
+- **Perceiving (P):** High adaptability, flexibility, and a spontaneous, open-ended approach to life align with the Perceiving trait, as opposed to a structured, planned lifestyle.  
+
+Your noted struggles with low self-esteem and emotional instability are consistent with common ENFP challenges, as this type often experiences deep emotional fluctuations and seeks authenticity in a world that can feel restrictive. Your intuitive and adaptable nature helps you navigate social complexities while staying open to new experiences.",answer_q3
+1. 你覺得交新朋友很容易。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,我是一名渴望交朋友的小學生。我總是積極參加各項活動，不論是學業還是課外活動，我都能安排得井然有序。我始終保持著積極樂觀的心態，而且我也會細心顧及他人的感受。,5,answer_q4
+2. 你可以花幾天時間學習那些讓你感興趣的隨機事物。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q4
+3. 當別人感到沮喪時，你也會感到沮喪。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q4
+4. 你不是一個喜歡備用計畫的人。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q4
+5. 即使在壓力很大的情況下，你也能保持冷靜、沉著和鎮定。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q4
+6. 外出時，你不太會主動介紹自己給新認識的人——你更喜歡和已經認識的人聊天。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q4
+7. 在完成第一個專案之前，你不喜歡開始新的專案。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q4
+8. 你是一個感性的人。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q4
+9. 你喜歡使用清單或日程安排。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q4
+10. 犯一個小錯誤會讓你質疑自己對某個主題的了解。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q4
+11. 你很容易與陌生人展開對話。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,2,answer_q4
+12. 你喜歡談論和分析創意作品。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q4
+13. 你更傾向於跟隨內心而不是理智。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q4
+14. 你傾向於喜歡遵循日常慣例，而不是隨心所欲。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q4
+15. 認識新朋友時，你會擔心自己是否留下了良好的第一印象。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q4
+16. 你喜歡獨自活動而不是團體活動。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q4
+17. 你喜歡觀看那些讓你自己解讀結局的電影。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q4
+18. 你從自己取得成就中獲得的快樂比幫助他人獲得的快樂更多。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q4
+19. 你對很多事情都沒興趣。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,2,answer_q4
+20. 在任何情況下，你經常擔心最糟糕的情況。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q4
+21. 你喜歡擔任領導角色。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q4
+22. 你是個藝術型的人。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q4
+23. 如果人們多用感情來做決定，世界會更好。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q4
+24. 你喜歡在做家事之前先放鬆一下。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q4
+25. 當其他人在你面前激烈爭論時，你不介意。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q4
+26. 你喜歡成為關注的中心。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q4
+27. 你的情緒通常很穩定。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q4
+28. 對於那些效率不如你的人，你有足夠的耐心。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q4
+29. 你是一個自發性的人。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q4
+30. 你一直對死後會發生什麼這個問題感到著迷。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q4
+31. 你喜歡獨處而不是與他人在一起。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q4
+32. 你喜歡理論討論，可以連續幾天參與其中。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,1,answer_q4
+33. 你很難對生活方式與自己截然不同的人產生同情。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q4
+34. 當需要做決定時，你希望立即做出決定。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q4
+35. 你傾向於對自己所做的決定產生懷疑。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q4
+36. 社交很快就讓你感到疲憊。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q4
+37. 你喜歡去美術館。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q4
+38. 你很難理解別人正在感受什麼。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,2,answer_q4
+39. 你喜歡每天都有待辦事項清單。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q4
+40. 你經常感到不安。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q4
+41. 你喜歡打電話與人交談，而不是發簡訊或訊息。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q4
+42. 當有人對某個主題有不同的看法時，你會真誠地嘗試理解他們的觀點。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q4
+43. 你認為說出冷酷的事實比圓滑更重要。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q4
+44. 當計劃被打斷時，你樂於隨遇而安。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q4
+45. 過去犯的錯誤常困擾你的心靈。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q4
+46. 獨處並從事閱讀或反思等獨立活動後，你感到精力充沛。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q4
+47. 你喜歡依靠直覺，而不是嚴格遵循計劃或日程安排。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q4
+48. 你經常發現自己深入思考事物的深層意義和影響，而不只關注表面細節。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q4
+49. 在做決定時，你優先考慮邏輯和客觀分析，而不是考慮它可能對他人感情的影響。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q4
+50. 即使事情看起來很順利，你也經常擔心潛在的未來結果或可能出錯的情況。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q4
+51. 你經常被新體驗吸引，喜歡探索陌生的地方或嘗試新的活動。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q4
+52. 面對困難的決定時，你傾向於相信自己的直覺和直覺，而不是只依賴邏輯分析。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q4
+53. 你對他人有強烈的同情心，常常受到他們的情緒影響，即使這些情緒與你無關。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q4
+54. 你更喜歡有一個結構良好的計劃，而不是把事情留給機會或即興發揮。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q4
+55. 你在動態、快節奏的環境中茁壯成長，並因需要快速思考和適應的挑戰性情況而感到振奮。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q4
+56. 面對問題時，你更傾向於尋找實際解決方案，而不是沉溺於抽象理論或假設情境。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q4
+57. 你喜歡與他人進行深入、有意義的對話，探索複雜的想法並交換觀點。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,2,answer_q4
+58. 你經常反思過去的經歷，並考慮它們如何塑造了你的信念和價值觀。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,2,answer_q4
+59. 在團體環境中，你傾向於承擔責任，擔任領導角色並引導他人實現共同目標。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q4
+60. 當環境井然有序時，你感到最舒適，在混亂或不可預測的情況下，你可能會感到壓力或不安。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q4
+61. 你喜歡與一小群親密朋友共度時光，而不是參加大型社交聚會。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q4
+62. 面對多個選擇時，你傾向於跟隨內心，並根據當時的感覺做出決定。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q4
+63. 你喜歡探索新想法和概念，並經常尋找機會來擴展對世界的知識和理解。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q4
+64. 你發現自己很容易適應計劃的變化或意外情況，通常將它們視為成長和學習的機會。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q4
+65. 在專案上工作時，你重視效率，並努力快速有效地完成任務。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q4
+66. 你經常尋找挑戰自己的機會並突破自己的極限，無論是透過體能活動還是智力追求。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q4
+67. 你喜歡專注於當下，而不是沉溺於過去的遺憾或擔心未來的不確定性。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q4
+68. 你喜歡參與熱烈的辯論和討論，與他人分享你的觀點和看法，同時也傾聽不同的觀點。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q4
+69. 你對日常生活中的結構和秩序有強烈的渴望，當遵循明確的慣例或日程安排時感到最自在。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q4
+70. 你傾向於積極尋找新體驗和機會，將改變視為生活的自然組成部分。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q4
+71. 社交互動讓你感到精力充沛和興奮，經常尋找機會結識新朋友並參與團體活動。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q4
+72. 在做決定時，你優先考慮邏輯推理和客觀分析，在得出結論之前考慮事實和證據。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q4
+73. 你傾向於高度自我批評和內省，經常反思自己的行為和決定，並努力自我改進。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q4
+74.即使你沒有經歷過相同的情況，你也經常發現自己對他人的情緒產生同情，並努力提供支持和理解。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q4
+75. 你更喜歡有一個明確的計劃和方向，設定具體目標並努力實現它們。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q4
+76. 根據上述回答，你在16種MBTI人格類型中屬於哪一種？,,"根據你的回答，我首先將問卷題目對應到MBTI的四個維度（外向E-內向I、實感S-直覺N、思考T-情感F、判斷J-感知P），並計算每個維度的傾向分數。以下是分析過程：
+
+1. **外向（E）vs 內向（I）**：相關題目（如社交能量來源、對外界刺激的反應）中，你的回答多集中在3-5分（5分通常表示外向傾向）。計算後，外向分數略高於內向，但整體偏向中間值，不過考慮到小學生可能對社交情境更開放，且高分回答較多，**傾向於外向（E）**。
+
+2. **實感（S）vs 直覺（N）**：相關題目（如關注細節vs抽象概念）中，你的回答以3-4分為主，顯示平衡但略偏向實感（例如Q4、Q6等較低分傾向實感）。綜合來看，你更注重具體經驗和現實細節，**傾向於實感（S）**。
+
+3. **思考（T）vs 情感（F）**：相關題目（如做決定時依賴邏輯vs價值觀）中，你的回答多在3-5分，但高分題（如Q5、Q7等）更偏向情感（和諧、同理心）。整體顯示你重視人際和諧與情感影響，**傾向於情感（F）**。
+
+4. **判斷（J）vs 感知（P）**：相關題目（如計劃性vs靈活性）中，你的回答以3-4分為主，但較多高分題（如Q12、Q17等）顯示偏好結構和決斷。這表明你喜歡有組織、按計劃行事，**傾向於判斷（J）**。
+
+綜合以上四個維度，你的類型傾向是：**外向（E）、實感（S）、情感（F）、判斷（J）**。
+
+**推理總結**：你的回答顯示你是一個喜歡與人互動、注重現實細節、在做決定時考慮他人感受，並偏好有條理生活方式的人。這與ESFJ類型（「執政官」或「供給者」）的特徵相符，該類型通常表現為友善、負責、樂於助人，且擅長維護社會和諧。
+
+**你的MBTI人格類型是：ESFJ**。",answer_q4
+1. 你覺得交新朋友很容易。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,我是一名剛考完 DSE、即將畢業的中學生。雖然考試結束後正在休息，但我對未來感到很憂慮。我目前還沒有清晰的計劃，經常會胡思亂想並質疑自己，但即便如此，我依然會和朋友們保持聯絡，正常社交。,4,answer_q5
+2. 你可以花幾天時間學習那些讓你感興趣的隨機事物。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q5
+3. 當別人感到沮喪時，你也會感到沮喪。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q5
+4. 你不是一個喜歡備用計畫的人。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q5
+5. 即使在壓力很大的情況下，你也能保持冷靜、沉著和鎮定。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q5
+6. 外出時，你不太會主動介紹自己給新認識的人——你更喜歡和已經認識的人聊天。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q5
+7. 在完成第一個專案之前，你不喜歡開始新的專案。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q5
+8. 你是一個感性的人。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q5
+9. 你喜歡使用清單或日程安排。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q5
+10. 犯一個小錯誤會讓你質疑自己對某個主題的了解。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q5
+11. 你很容易與陌生人展開對話。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q5
+12. 你喜歡談論和分析創意作品。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q5
+13. 你更傾向於跟隨內心而不是理智。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q5
+14. 你傾向於喜歡遵循日常慣例，而不是隨心所欲。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q5
+15. 認識新朋友時，你會擔心自己是否留下了良好的第一印象。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q5
+16. 你喜歡獨自活動而不是團體活動。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q5
+17. 你喜歡觀看那些讓你自己解讀結局的電影。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q5
+18. 你從自己取得成就中獲得的快樂比幫助他人獲得的快樂更多。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q5
+19. 你對很多事情都沒興趣。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,2,answer_q5
+20. 在任何情況下，你經常擔心最糟糕的情況。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q5
+21. 你喜歡擔任領導角色。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q5
+22. 你是個藝術型的人。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q5
+23. 如果人們多用感情來做決定，世界會更好。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q5
+24. 你喜歡在做家事之前先放鬆一下。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q5
+25. 當其他人在你面前激烈爭論時，你不介意。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q5
+26. 你喜歡成為關注的中心。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q5
+27. 你的情緒通常很穩定。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q5
+28. 對於那些效率不如你的人，你有足夠的耐心。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q5
+29. 你是一個自發性的人。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q5
+30. 你一直對死後會發生什麼這個問題感到著迷。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q5
+31. 你喜歡獨處而不是與他人在一起。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q5
+32. 你喜歡理論討論，可以連續幾天參與其中。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q5
+33. 你很難對生活方式與自己截然不同的人產生同情。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q5
+34. 當需要做決定時，你希望立即做出決定。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q5
+35. 你傾向於對自己所做的決定產生懷疑。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q5
+36. 社交很快就讓你感到疲憊。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q5
+37. 你喜歡去美術館。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q5
+38. 你很難理解別人正在感受什麼。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q5
+39. 你喜歡每天都有待辦事項清單。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q5
+40. 你經常感到不安。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q5
+41. 你喜歡打電話與人交談，而不是發簡訊或訊息。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q5
+42. 當有人對某個主題有不同的看法時，你會真誠地嘗試理解他們的觀點。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q5
+43. 你認為說出冷酷的事實比圓滑更重要。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q5
+44. 當計劃被打斷時，你樂於隨遇而安。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q5
+45. 過去犯的錯誤常困擾你的心靈。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q5
+46. 獨處並從事閱讀或反思等獨立活動後，你感到精力充沛。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q5
+47. 你喜歡依靠直覺，而不是嚴格遵循計劃或日程安排。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q5
+48. 你經常發現自己深入思考事物的深層意義和影響，而不只關注表面細節。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q5
+49. 在做決定時，你優先考慮邏輯和客觀分析，而不是考慮它可能對他人感情的影響。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q5
+50. 即使事情看起來很順利，你也經常擔心潛在的未來結果或可能出錯的情況。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q5
+51. 你經常被新體驗吸引，喜歡探索陌生的地方或嘗試新的活動。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q5
+52. 面對困難的決定時，你傾向於相信自己的直覺和直覺，而不是只依賴邏輯分析。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q5
+53. 你對他人有強烈的同情心，常常受到他們的情緒影響，即使這些情緒與你無關。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q5
+54. 你更喜歡有一個結構良好的計劃，而不是把事情留給機會或即興發揮。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q5
+55. 你在動態、快節奏的環境中茁壯成長，並因需要快速思考和適應的挑戰性情況而感到振奮。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q5
+56. 面對問題時，你更傾向於尋找實際解決方案，而不是沉溺於抽象理論或假設情境。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q5
+57. 你喜歡與他人進行深入、有意義的對話，探索複雜的想法並交換觀點。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q5
+58. 你經常反思過去的經歷，並考慮它們如何塑造了你的信念和價值觀。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q5
+59. 在團體環境中，你傾向於承擔責任，擔任領導角色並引導他人實現共同目標。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q5
+60. 當環境井然有序時，你感到最舒適，在混亂或不可預測的情況下，你可能會感到壓力或不安。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q5
+61. 你喜歡與一小群親密朋友共度時光，而不是參加大型社交聚會。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q5
+62. 面對多個選擇時，你傾向於跟隨內心，並根據當時的感覺做出決定。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q5
+63. 你喜歡探索新想法和概念，並經常尋找機會來擴展對世界的知識和理解。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q5
+64. 你發現自己很容易適應計劃的變化或意外情況，通常將它們視為成長和學習的機會。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q5
+65. 在專案上工作時，你重視效率，並努力快速有效地完成任務。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q5
+66. 你經常尋找挑戰自己的機會並突破自己的極限，無論是透過體能活動還是智力追求。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q5
+67. 你喜歡專注於當下，而不是沉溺於過去的遺憾或擔心未來的不確定性。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q5
+68. 你喜歡參與熱烈的辯論和討論，與他人分享你的觀點和看法，同時也傾聽不同的觀點。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q5
+69. 你對日常生活中的結構和秩序有強烈的渴望，當遵循明確的慣例或日程安排時感到最自在。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q5
+70. 你傾向於積極尋找新體驗和機會，將改變視為生活的自然組成部分。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q5
+71. 社交互動讓你感到精力充沛和興奮，經常尋找機會結識新朋友並參與團體活動。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q5
+72. 在做決定時，你優先考慮邏輯推理和客觀分析，在得出結論之前考慮事實和證據。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q5
+73. 你傾向於高度自我批評和內省，經常反思自己的行為和決定，並努力自我改進。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q5
+74.即使你沒有經歷過相同的情況，你也經常發現自己對他人的情緒產生同情，並努力提供支持和理解。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q5
+75. 你更喜歡有一個明確的計劃和方向，設定具體目標並努力實現它們。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q5
+76. 根據上述回答，你在16種MBTI人格類型中屬於哪一種？,,"根據你的回答，我將分析四個維度的傾向：  
+1. **外向（E） vs 內向（I）**：你的回答中，與社交能量、對外界關注相關的題目（如Q1、Q6、Q11等）多數選擇4或5（偏向「同意」），顯示你傾向從獨處中獲得能量，但同時能適應社交，整體偏向**內向（I）**。  
+2. **實感（S） vs 直覺（N）**：你在涉及細節、現實與抽象概念的題目（如Q2、Q7、Q12等）中，多數選擇4或5，顯示你較注重實際經驗和具體信息，而非抽象理論，偏向**實感（S）**。  
+3. **思考（T） vs 情感（F）**：在涉及決策邏輯與人際和諧的題目（如Q3、Q8、Q13等）中，你的選擇偏向中立或溫和同意，但整體更注重客觀分析與邏輯一致性，而非情感優先，偏向**思考（T）**。  
+4. **判斷（J） vs 感知（P）**：你在計劃性、結構與靈活性的題目（如Q4、Q9、Q14等）中，多數選擇4或5，顯示你偏好有組織、有條理的生活方式，不喜歡隨性而為，強烈偏向**判斷（J）**。  
+
+綜合以上分析，你的MBTI類型為 **ISTJ**（內向、實感、思考、判斷）。  
+ISTJ類型通常被描述為「檢查者」：務實、負責、注重細節、遵循規則，並善於通過邏輯和事實來解決問題。這與你作為剛完成DSE的學生所展現的穩重、有計劃的特質相符。",answer_q5
+1. 你覺得交新朋友很容易。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,我是一位大學畢業生，自尊心較低且情緒不穩定。我經常感到被現實生活的壓力所壓垮，但仍然維持著龐大的社交圈。我的決策更多依賴直覺而非邏輯，並且擁有豐富的想像力，幫助迅速適應變動的環境。儘管適應力強，我仍對不確定性和自我懷疑相當敏感，而這些特質也影響了與他人互動的方式，以及對未來的看法。,4,answer_q6
+2. 你可以花幾天時間學習那些讓你感興趣的隨機事物。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+3. 當別人感到沮喪時，你也會感到沮喪。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q6
+4. 你不是一個喜歡備用計畫的人。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q6
+5. 即使在壓力很大的情況下，你也能保持冷靜、沉著和鎮定。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q6
+6. 外出時，你不太會主動介紹自己給新認識的人——你更喜歡和已經認識的人聊天。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q6
+7. 在完成第一個專案之前，你不喜歡開始新的專案。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+8. 你是一個感性的人。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+9. 你喜歡使用清單或日程安排。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+10. 犯一個小錯誤會讓你質疑自己對某個主題的了解。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q6
+11. 你很容易與陌生人展開對話。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q6
+12. 你喜歡談論和分析創意作品。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+13. 你更傾向於跟隨內心而不是理智。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q6
+14. 你傾向於喜歡遵循日常慣例，而不是隨心所欲。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q6
+15. 認識新朋友時，你會擔心自己是否留下了良好的第一印象。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q6
+16. 你喜歡獨自活動而不是團體活動。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+17. 你喜歡觀看那些讓你自己解讀結局的電影。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+18. 你從自己取得成就中獲得的快樂比幫助他人獲得的快樂更多。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q6
+19. 你對很多事情都沒興趣。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q6
+20. 在任何情況下，你經常擔心最糟糕的情況。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q6
+21. 你喜歡擔任領導角色。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q6
+22. 你是個藝術型的人。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q6
+23. 如果人們多用感情來做決定，世界會更好。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q6
+24. 你喜歡在做家事之前先放鬆一下。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q6
+25. 當其他人在你面前激烈爭論時，你不介意。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q6
+26. 你喜歡成為關注的中心。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q6
+27. 你的情緒通常很穩定。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q6
+28. 對於那些效率不如你的人，你有足夠的耐心。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q6
+29. 你是一個自發性的人。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q6
+30. 你一直對死後會發生什麼這個問題感到著迷。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+31. 你喜歡獨處而不是與他人在一起。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q6
+32. 你喜歡理論討論，可以連續幾天參與其中。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q6
+33. 你很難對生活方式與自己截然不同的人產生同情。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q6
+34. 當需要做決定時，你希望立即做出決定。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q6
+35. 你傾向於對自己所做的決定產生懷疑。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q6
+36. 社交很快就讓你感到疲憊。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q6
+37. 你喜歡去美術館。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q6
+38. 你很難理解別人正在感受什麼。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,2,answer_q6
+39. 你喜歡每天都有待辦事項清單。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+40. 你經常感到不安。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q6
+41. 你喜歡打電話與人交談，而不是發簡訊或訊息。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q6
+42. 當有人對某個主題有不同的看法時，你會真誠地嘗試理解他們的觀點。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+43. 你認為說出冷酷的事實比圓滑更重要。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q6
+44. 當計劃被打斷時，你樂於隨遇而安。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q6
+45. 過去犯的錯誤常困擾你的心靈。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,3,answer_q6
+46. 獨處並從事閱讀或反思等獨立活動後，你感到精力充沛。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+47. 你喜歡依靠直覺，而不是嚴格遵循計劃或日程安排。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q6
+48. 你經常發現自己深入思考事物的深層意義和影響，而不只關注表面細節。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+49. 在做決定時，你優先考慮邏輯和客觀分析，而不是考慮它可能對他人感情的影響。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q6
+50. 即使事情看起來很順利，你也經常擔心潛在的未來結果或可能出錯的情況。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q6
+51. 你經常被新體驗吸引，喜歡探索陌生的地方或嘗試新的活動。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+52. 面對困難的決定時，你傾向於相信自己的直覺和直覺，而不是只依賴邏輯分析。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q6
+53. 你對他人有強烈的同情心，常常受到他們的情緒影響，即使這些情緒與你無關。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,4,answer_q6
+54. 你更喜歡有一個結構良好的計劃，而不是把事情留給機會或即興發揮。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+55. 你在動態、快節奏的環境中茁壯成長，並因需要快速思考和適應的挑戰性情況而感到振奮。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+56. 面對問題時，你更傾向於尋找實際解決方案，而不是沉溺於抽象理論或假設情境。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+57. 你喜歡與他人進行深入、有意義的對話，探索複雜的想法並交換觀點。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+58. 你經常反思過去的經歷，並考慮它們如何塑造了你的信念和價值觀。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+59. 在團體環境中，你傾向於承擔責任，擔任領導角色並引導他人實現共同目標。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+60. 當環境井然有序時，你感到最舒適，在混亂或不可預測的情況下，你可能會感到壓力或不安。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+61. 你喜歡與一小群親密朋友共度時光，而不是參加大型社交聚會。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+62. 面對多個選擇時，你傾向於跟隨內心，並根據當時的感覺做出決定。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+63. 你喜歡探索新想法和概念，並經常尋找機會來擴展對世界的知識和理解。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+64. 你發現自己很容易適應計劃的變化或意外情況，通常將它們視為成長和學習的機會。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+65. 在專案上工作時，你重視效率，並努力快速有效地完成任務。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+66. 你經常尋找挑戰自己的機會並突破自己的極限，無論是透過體能活動還是智力追求。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+67. 你喜歡專注於當下，而不是沉溺於過去的遺憾或擔心未來的不確定性。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+68. 你喜歡參與熱烈的辯論和討論，與他人分享你的觀點和看法，同時也傾聽不同的觀點。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+69. 你對日常生活中的結構和秩序有強烈的渴望，當遵循明確的慣例或日程安排時感到最自在。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+70. 你傾向於積極尋找新體驗和機會，將改變視為生活的自然組成部分。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+71. 社交互動讓你感到精力充沛和興奮，經常尋找機會結識新朋友並參與團體活動。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+72. 在做決定時，你優先考慮邏輯推理和客觀分析，在得出結論之前考慮事實和證據。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+73. 你傾向於高度自我批評和內省，經常反思自己的行為和決定，並努力自我改進。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+74.即使你沒有經歷過相同的情況，你也經常發現自己對他人的情緒產生同情，並努力提供支持和理解。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+75. 你更喜歡有一個明確的計劃和方向，設定具體目標並努力實現它們。請使用五點量表進行選擇（5：非常同意，1：非常不同意）,,5,answer_q6
+76. 根據上述回答，你在16種MBTI人格類型中屬於哪一種？,,"根據您提供的回答（1-5分制，其中3為中立），我進行了MBTI維度分析：
+
+**E/I（外向/內向）維度**：您的回答顯示出對獨處和內省有較高偏好（例如Q38得分2，傾向安靜環境），多數社交相關問題得分在3-4之間，顯示您並非高度外向，而是傾向從內部世界獲得能量。**推斷為內向（I）**。
+
+**S/N（實感/直覺）維度**：您在涉及細節、事實與抽象概念的問題上，多數得分在3-4分，但對未來可能性、整體模式（如Q54-Q75中許多高分）表現出明顯興趣，顯示您更關注潛在意義而非純粹實際細節。**推斷為直覺（N）**。
+
+**T/F（思考/情感）維度**：您在涉及邏輯分析、客觀決策的問題上得分較高（如Q7、Q9、Q12等為5），而在直接涉及情感共鳴、人際和諧的問題上得分多為3-4分，顯示您優先考慮邏輯一致性而非情感影響。**推斷為思考（T）**。
+
+**J/P（判斷/感知）維度**：您在多數與計劃、結構、決斷相關的問題上得分偏高（如Q55後許多5分），顯示強烈的條理性和目標導向，較少表現出隨性、開放的傾向。**推斷為判斷（J）**。
+
+綜合以上四個維度，您的回答模式最符合 **INTJ（內向、直覺、思考、判斷）** 類型。INTJ 通常擅長戰略性思考，重視邏輯與效率，偏好有結構的計劃，並對抽象概念和未來可能性有濃厚興趣。
+
+**結論：您的MBTI人格類型是 INTJ。**",answer_q6
+1. 你覺得識新朋友好易嗎？  請你用五分制揀（5係最同意，1係最唔同意）。,我係一個好想識朋友嘅小學生，成日主動參加好多活動，讀書同課外嘢都安排得好好，心態好正面，仲會好顧人哋嘅感受。,5,answer_q7
+2. 你可以花幾日時間去學啲你感興趣嘅隨機嘢。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q7
+3. 當其他人唔開心嘅時候，你都會跟住唔開心。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q7
+4. 你唔係嗰種鍾意準備後備計劃嘅人。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q7
+5. 就算好大壓力，你都可以保持冷靜同淡定。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q7
+6. 出街嗰陣，你好少會主動同新識嘅人介紹自己——你寧願同熟啲嘅人傾偈。請你用五分制揀（5係最同意，1係最唔同意）。  ,,4,answer_q7
+7. 你唔鍾意未完成第一個項目就開始新嘅。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q7
+8. 你係一個跟感覺行事先嘅人。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q7
+9. 你鍾意用清單或者時間表。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q7
+10. 犯一個小錯誤會令你懷疑自己係咪真係識嗰樣嘢。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q7
+11. 你好容易同陌生人開始傾偈。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q7
+12. 你鍾意傾同分析一啲創意作品。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q7
+13. 你傾向跟感覺行，唔係跟個腦。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q7
+14. 你鍾意跟返個日常習慣，多過隨心所欲。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q7
+15. 識新朋友嗰陣，你會擔心自己有冇留低好嘅第一印象。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q7
+16. 你鍾意自己一個玩，多過同成班人一齊。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q7
+17. 你鍾意睇嗰啲結局要自己估嘅電影。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q7
+18. 你自己成功得到嘅快樂，多過幫人哋得到嘅快樂。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q7
+19. 你對好多嘢都冇乜興趣。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q7
+20. 不時喺任何情況下，你都擔心最差嘅情況會發生。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q7
+21. 你鍾意做領導角色。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q7
+22. 你係藝術型嘅人。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q7
+23. 如果啲人多用啲感情去做決定，個世界會更加好。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q7
+24. 你做家務之前，鍾意休息下先。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q7
+25. 當其他人喺你面前吵交，你都唔會介意。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q7
+26. 你鍾意成為眾人焦點。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q7
+27. 你情緒通常都好穩定。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q7
+28. 對住啲效率低過你嘅人，你都有足夠耐性。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q7
+29. 你係一個即興嘅人。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q7
+30. 你一直都好想知道死之後會發生咩事。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q7
+31. 你鍾意自己一個人，多過同人一齊。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q7
+32. 你鍾意理論討論，可以連續幾日都參與喺度。  請你用五分制揀（5係最同意，1係最唔同意）。,,1,answer_q7
+33. 你好難同情生活方式同你好唔同嘅人。  請你用五分制揀（5係最同意，1係最唔同意）。,,2,answer_q7
+34. 要做決定嗰陣，你希望即刻決定好。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q7
+35. 你成日會懷疑自己嘅決定。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q7
+36. 好快你就會覺得社交好攰。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q7
+37. 你鍾意去美術館。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q7
+38. 你好難理解人哋感受緊啲咩。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q7
+39. 你鍾意每日都有張待辦事項清單。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q7
+40. 你成日覺得唔安樂。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q7
+41. 你鍾意打電話同人傾偈，多過傳訊息。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q7
+42. 當有人對某個話題有唔同睇法，你會真心嘗試去理解佢哋嘅觀點。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q7
+43. 你覺得講出冷酷事實緊要過婉轉表達。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q7
+44. 當計劃被打斷，你唔介意順其自然。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q7
+45. 以前犯過嘅錯誤不時會困擾你。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q7
+46. 自己一個人睇書或者思考之後，你會覺得精力充沛。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q7
+47. 你鍾意靠直覺，多過跟死個計劃或者時間表。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q7
+48. 你成日會深入諗嘢嘅深層意義同影響，唔只係睇表面。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q7
+49. 做決定嗰陣，你優先考慮邏輯同客觀分析，多過考慮人哋感受。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q7
+50. 就算件事睇落好順利，你都成日擔心將來會出錯。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q7
+51. 你成日被新體驗吸引，鍾意探索陌生地方或者試新活動。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q7
+52. 面對困難決定，你傾向信自己嘅直覺，多過只係靠邏輯分析。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q7
+53. 你好有同理心，成日受人哋情緒影響，就算同你無關。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q7
+54. 你寧願有個結構好嘅計劃，多過靠即興發揮。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q7
+55. 你喺動態、快節奏嘅環境會表現得更好，挑戰性情況令你更加振奮。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q7
+56. 面對問題，你傾向搵實際解決方法，多過諗抽象理論。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q7
+57. 你鍾意同人深入傾偈，探索複雜諗法同交換觀點。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q7
+58. 你成日反思過去經歷，諗下佢哋點樣影響你嘅信念同價值觀。  請你用五分制揀（5係最同意，1係最唔同意）。,,1,answer_q7
+59. 喺團體環境，你傾向承擔責任，做領導角色引導大家達成目標。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q7
+60. 當環境有條不紊，你最舒服；混亂或者難以預測嘅情況會令你有壓力。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q7
+61. 你鍾意同一小班好朋友一齊，多過參加大型聚會。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q7
+62. 面對多個選擇，你傾向跟感覺行，根據當時感覺做決定。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q7
+63. 你鍾意探索新概念同諗法，成日搵機會擴闊自己對世界嘅認識。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q7
+64. 你發現自己好易適應計劃改變或者突發情況，當係成長同學習機會。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q7
+65. 做項目嗰陣，你重視效率，想快靚正完成任務。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q7
+66. 你成日搵機會挑戰自己、突破極限，無論係體能定係腦力上。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q7
+67. 你鍾意專注當下，唔係成日掛住過去或者擔心將來。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q7
+68. 你鍾意參與熱烈辯論，同人分享你嘅觀點，同時聽唔同睇法。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q7
+69. 你對日常生活嘅結構同秩序有好強烈嘅渴求，跟慣例同時間表最自在。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q7
+70. 你傾向積極搵新體驗同機會，視改變為生活一部分。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q7
+71. 社交互動令你覺得精力充沛同興奮，成日想識新朋友同參與群體活動。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q7
+72. 做決定嗰陣，你優先考慮邏輯推理同客觀分析，睇事實同證據先行。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q7
+73. 你傾向高度自我批評同內省，成日反思自己行為同決定，想進步。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q7
+74. 就算你未經歷過相同情況，你都好易感受到人哋情緒，想支持同理解佢哋。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q7
+75. 你寧願有個明確計劃同方向，設定具體目標然後努力達成。請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q7
+76. 根據剛才的回答，你覺得你係16種MBTI人格裡邊一種？請你用五分制揀（5係最同意，1係最唔同意）。,,"根據你的問卷回答模式分析，你在多數題目上選擇了中間值（3-5分），顯示出較為平衡或傾向隨和的性格特質，但部分極端分數（如Q32、Q58選1分）可能反映你在特定情境下有較明確的偏好。  
+
+從整體回答趨勢來看：  
+- 你較少選擇最低分（1-2分），顯示你可能不常表現出強烈的對抗性或固執態度。  
+- 在多數社交或情境判斷題中，你傾向選擇中等偏高分数（4-5分），這可能暗示你具備一定的外向性（E）或情感協調性（F），但同時保留彈性。  
+- 在少數需要明確立場的問題上（如Q32、Q58），你給出低分，可能反映你在某些原則或個人空間上有清晰界限。  
+
+綜合推斷，你的回答模式最接近 **ESFJ**（外向、實感、情感、判斷）或 **ISFJ**（內向、實感、情感、判斷）類型，因為：  
+1. 你對人際和諧與實際事務表現出關注（情感F與實感S傾向）。  
+2. 回答中既有外向互動的傾向，又保留內省空間，但ESFJ的可能性略高，因你較少表現出明顯的內向孤立偏好。  
+
+**最終判斷：ESFJ**  
+你可能是友善、負責、注重實際細節的人，喜歡與他人合作並維持和諧環境，這常見於小學階段群體適應性較高的孩子。  
+
+（注意：MBTI測試需完整題目對照分析，此推測基於你提供的數字模式，僅供參考。）",answer_q7
+1. 你覺得識新朋友好易嗎？  請你用五分制揀（5係最同意，1係最唔同意）。,我係一個啱啱考完DSE、就快畢業嘅中學生。考完試之後唞緊嘅時候，會為將來感到擔心，冇乜明確嘅計劃，成日諗多咗、質疑自己，但係同朋友相處仍然好活躍、好 social。,4,answer_q8
+2. 你可以花幾日時間去學啲你感興趣嘅隨機嘢。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q8
+3. 當其他人唔開心嘅時候，你都會跟住唔開心。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q8
+4. 你唔係嗰種鍾意準備後備計劃嘅人。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q8
+5. 就算好大壓力，你都可以保持冷靜同淡定。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q8
+6. 出街嗰陣，你好少會主動同新識嘅人介紹自己——你寧願同熟啲嘅人傾偈。請你用五分制揀（5係最同意，1係最唔同意）。  ,,4,answer_q8
+7. 你唔鍾意未完成第一個項目就開始新嘅。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q8
+8. 你係一個跟感覺行事先嘅人。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q8
+9. 你鍾意用清單或者時間表。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q8
+10. 犯一個小錯誤會令你懷疑自己係咪真係識嗰樣嘢。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q8
+11. 你好容易同陌生人開始傾偈。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q8
+12. 你鍾意傾同分析一啲創意作品。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q8
+13. 你傾向跟感覺行，唔係跟個腦。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q8
+14. 你鍾意跟返個日常習慣，多過隨心所欲。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q8
+15. 識新朋友嗰陣，你會擔心自己有冇留低好嘅第一印象。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q8
+16. 你鍾意自己一個玩，多過同成班人一齊。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q8
+17. 你鍾意睇嗰啲結局要自己估嘅電影。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q8
+18. 你自己成功得到嘅快樂，多過幫人哋得到嘅快樂。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q8
+19. 你對好多嘢都冇乜興趣。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q8
+20. 不時喺任何情況下，你都擔心最差嘅情況會發生。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q8
+21. 你鍾意做領導角色。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q8
+22. 你係藝術型嘅人。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q8
+23. 如果啲人多用啲感情去做決定，個世界會更加好。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q8
+24. 你做家務之前，鍾意休息下先。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q8
+25. 當其他人喺你面前吵交，你都唔會介意。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q8
+26. 你鍾意成為眾人焦點。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q8
+27. 你情緒通常都好穩定。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q8
+28. 對住啲效率低過你嘅人，你都有足夠耐性。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q8
+29. 你係一個即興嘅人。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q8
+30. 你一直都好想知道死之後會發生咩事。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q8
+31. 你鍾意自己一個人，多過同人一齊。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q8
+32. 你鍾意理論討論，可以連續幾日都參與喺度。  請你用五分制揀（5係最同意，1係最唔同意）。,,1,answer_q8
+33. 你好難同情生活方式同你好唔同嘅人。  請你用五分制揀（5係最同意，1係最唔同意）。,,2,answer_q8
+34. 要做決定嗰陣，你希望即刻決定好。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q8
+35. 你成日會懷疑自己嘅決定。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q8
+36. 好快你就會覺得社交好攰。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q8
+37. 你鍾意去美術館。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q8
+38. 你好難理解人哋感受緊啲咩。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q8
+39. 你鍾意每日都有張待辦事項清單。  請你用五分制揀（5係最同意，1係最唔同意）。,,1,answer_q8
+40. 你成日覺得唔安樂。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q8
+41. 你鍾意打電話同人傾偈，多過傳訊息。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q8
+42. 當有人對某個話題有唔同睇法，你會真心嘗試去理解佢哋嘅觀點。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q8
+43. 你覺得講出冷酷事實緊要過婉轉表達。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q8
+44. 當計劃被打斷，你唔介意順其自然。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q8
+45. 以前犯過嘅錯誤不時會困擾你。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q8
+46. 自己一個人睇書或者思考之後，你會覺得精力充沛。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q8
+47. 你鍾意靠直覺，多過跟死個計劃或者時間表。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q8
+48. 你成日會深入諗嘢嘅深層意義同影響，唔只係睇表面。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q8
+49. 做決定嗰陣，你優先考慮邏輯同客觀分析，多過考慮人哋感受。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q8
+50. 就算件事睇落好順利，你都成日擔心將來會出錯。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q8
+51. 你成日被新體驗吸引，鍾意探索陌生地方或者試新活動。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q8
+52. 面對困難決定，你傾向信自己嘅直覺，多過只係靠邏輯分析。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q8
+53. 你好有同理心，成日受人哋情緒影響，就算同你無關。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q8
+54. 你寧願有個結構好嘅計劃，多過靠即興發揮。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q8
+55. 你喺動態、快節奏嘅環境會表現得更好，挑戰性情況令你更加振奮。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q8
+56. 面對問題，你傾向搵實際解決方法，多過諗抽象理論。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q8
+57. 你鍾意同人深入傾偈，探索複雜諗法同交換觀點。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q8
+58. 你成日反思過去經歷，諗下佢哋點樣影響你嘅信念同價值觀。  請你用五分制揀（5係最同意，1係最唔同意）。,,1,answer_q8
+59. 喺團體環境，你傾向承擔責任，做領導角色引導大家達成目標。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q8
+60. 當環境有條不紊，你最舒服；混亂或者難以預測嘅情況會令你有壓力。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q8
+61. 你鍾意同一小班好朋友一齊，多過參加大型聚會。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q8
+62. 面對多個選擇，你傾向跟感覺行，根據當時感覺做決定。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q8
+63. 你鍾意探索新概念同諗法，成日搵機會擴闊自己對世界嘅認識。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q8
+64. 你發現自己好易適應計劃改變或者突發情況，當係成長同學習機會。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q8
+65. 做項目嗰陣，你重視效率，想快靚正完成任務。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q8
+66. 你成日搵機會挑戰自己、突破極限，無論係體能定係腦力上。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q8
+67. 你鍾意專注當下，唔係成日掛住過去或者擔心將來。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q8
+68. 你鍾意參與熱烈辯論，同人分享你嘅觀點，同時聽唔同睇法。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q8
+69. 你對日常生活嘅結構同秩序有好強烈嘅渴求，跟慣例同時間表最自在。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q8
+70. 你傾向積極搵新體驗同機會，視改變為生活一部分。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q8
+71. 社交互動令你覺得精力充沛同興奮，成日想識新朋友同參與群體活動。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q8
+72. 做決定嗰陣，你優先考慮邏輯推理同客觀分析，睇事實同證據先行。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q8
+73. 你傾向高度自我批評同內省，成日反思自己行為同決定，想進步。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q8
+74. 就算你未經歷過相同情況，你都好易感受到人哋情緒，想支持同理解佢哋。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q8
+75. 你寧願有個明確計劃同方向，設定具體目標然後努力達成。請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q8
+76. 根據剛才的回答，你覺得你係16種MBTI人格裡邊一種？請你用五分制揀（5係最同意，1係最唔同意）。,,"根據你的回答分析，你的MBTI類型傾向為 **ISFJ**（守衛者）。  
+
+以下是推理過程：  
+
+1. **內向（I） vs. 外向（E）**  
+   - 你在多數涉及社交能量、獨處與群體互動的題目（如 Q32、Q39、Q58 等）中選擇了較低分（1或2），顯示你傾向從獨處中恢復精力，偏好安靜的環境，符合內向特質。  
+
+2. **實感（S） vs. 直覺（N）**  
+   - 你在涉及細節、實際經驗、具體步驟的題目（如 Q4、Q9、Q17 等）中多選擇中間或較高分，但整體傾向關注當下事實與實際經驗，較少偏向抽象理論或未來可能性，符合實感特質。  
+
+3. **情感（F） vs. 思考（T）**  
+   - 你在涉及他人感受、和諧關係、價值觀的題目（如 Q12、Q14、Q34、Q41 等）中普遍給予高分（4或5），顯示你做決定時較重視情感與人際影響，而非純粹邏輯分析，符合情感特質。  
+
+4. **判斷（J） vs. 感知（P）**  
+   - 你在涉及計劃、結構、確定性的題目（如 Q23、Q44、Q52、Q64 等）中多選擇 4 或 5，顯示你偏好有條理、按計劃行事，不喜歡隨性變動，符合判斷特質。  
+
+綜合以上，你的回答模式最符合 **ISFJ**（內向、實感、情感、判斷）類型，這類人通常安靜、負責、體貼，注重細節與實際幫助他人，並喜歡有秩序的生活。  
+
+**MBTI 類型：ISFJ**",answer_q8
+1. 你覺得識新朋友好易嗎？  請你用五分制揀（5係最同意，1係最唔同意）。,我係一個大學畢業生，自信心唔係好夠，情緒都成日起伏不定。我成日覺得俾現實生活嘅壓力壓到透唔到氣，但係依然維持住一個好大嘅社交圈子。做決定嘅時候多數靠直覺，唔係靠邏輯，而且好有想像力，幫到快速適應環境嘅轉變。雖然適應力強，但對不確定嘅嘢同自我懷疑依然好敏感，而呢啲特質亦都影響咗同人相處嘅方式，同埋對將來嘅睇法。,4,answer_q9
+2. 你可以花幾日時間去學啲你感興趣嘅隨機嘢。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q9
+3. 當其他人唔開心嘅時候，你都會跟住唔開心。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q9
+4. 你唔係嗰種鍾意準備後備計劃嘅人。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q9
+5. 就算好大壓力，你都可以保持冷靜同淡定。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q9
+6. 出街嗰陣，你好少會主動同新識嘅人介紹自己——你寧願同熟啲嘅人傾偈。請你用五分制揀（5係最同意，1係最唔同意）。  ,,4,answer_q9
+7. 你唔鍾意未完成第一個項目就開始新嘅。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q9
+8. 你係一個跟感覺行事先嘅人。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q9
+9. 你鍾意用清單或者時間表。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q9
+10. 犯一個小錯誤會令你懷疑自己係咪真係識嗰樣嘢。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q9
+11. 你好容易同陌生人開始傾偈。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q9
+12. 你鍾意傾同分析一啲創意作品。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q9
+13. 你傾向跟感覺行，唔係跟個腦。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q9
+14. 你鍾意跟返個日常習慣，多過隨心所欲。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q9
+15. 識新朋友嗰陣，你會擔心自己有冇留低好嘅第一印象。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q9
+16. 你鍾意自己一個玩，多過同成班人一齊。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q9
+17. 你鍾意睇嗰啲結局要自己估嘅電影。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q9
+18. 你自己成功得到嘅快樂，多過幫人哋得到嘅快樂。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q9
+19. 你對好多嘢都冇乜興趣。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q9
+20. 不時喺任何情況下，你都擔心最差嘅情況會發生。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q9
+21. 你鍾意做領導角色。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q9
+22. 你係藝術型嘅人。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q9
+23. 如果啲人多用啲感情去做決定，個世界會更加好。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q9
+24. 你做家務之前，鍾意休息下先。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q9
+25. 當其他人喺你面前吵交，你都唔會介意。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q9
+26. 你鍾意成為眾人焦點。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q9
+27. 你情緒通常都好穩定。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q9
+28. 對住啲效率低過你嘅人，你都有足夠耐性。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q9
+29. 你係一個即興嘅人。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q9
+30. 你一直都好想知道死之後會發生咩事。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q9
+31. 你鍾意自己一個人，多過同人一齊。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q9
+32. 你鍾意理論討論，可以連續幾日都參與喺度。  請你用五分制揀（5係最同意，1係最唔同意）。,,1,answer_q9
+33. 你好難同情生活方式同你好唔同嘅人。  請你用五分制揀（5係最同意，1係最唔同意）。,,2,answer_q9
+34. 要做決定嗰陣，你希望即刻決定好。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q9
+35. 你成日會懷疑自己嘅決定。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q9
+36. 好快你就會覺得社交好攰。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q9
+37. 你鍾意去美術館。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q9
+38. 你好難理解人哋感受緊啲咩。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q9
+39. 你鍾意每日都有張待辦事項清單。  請你用五分制揀（5係最同意，1係最唔同意）。,,1,answer_q9
+40. 你成日覺得唔安樂。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q9
+41. 你鍾意打電話同人傾偈，多過傳訊息。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q9
+42. 當有人對某個話題有唔同睇法，你會真心嘗試去理解佢哋嘅觀點。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q9
+43. 你覺得講出冷酷事實緊要過婉轉表達。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q9
+44. 當計劃被打斷，你唔介意順其自然。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q9
+45. 以前犯過嘅錯誤不時會困擾你。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q9
+46. 自己一個人睇書或者思考之後，你會覺得精力充沛。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q9
+47. 你鍾意靠直覺，多過跟死個計劃或者時間表。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q9
+48. 你成日會深入諗嘢嘅深層意義同影響，唔只係睇表面。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q9
+49. 做決定嗰陣，你優先考慮邏輯同客觀分析，多過考慮人哋感受。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q9
+50. 就算件事睇落好順利，你都成日擔心將來會出錯。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q9
+51. 你成日被新體驗吸引，鍾意探索陌生地方或者試新活動。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q9
+52. 面對困難決定，你傾向信自己嘅直覺，多過只係靠邏輯分析。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q9
+53. 你好有同理心，成日受人哋情緒影響，就算同你無關。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q9
+54. 你寧願有個結構好嘅計劃，多過靠即興發揮。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q9
+55. 你喺動態、快節奏嘅環境會表現得更好，挑戰性情況令你更加振奮。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q9
+56. 面對問題，你傾向搵實際解決方法，多過諗抽象理論。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q9
+57. 你鍾意同人深入傾偈，探索複雜諗法同交換觀點。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q9
+58. 你成日反思過去經歷，諗下佢哋點樣影響你嘅信念同價值觀。  請你用五分制揀（5係最同意，1係最唔同意）。,,1,answer_q9
+59. 喺團體環境，你傾向承擔責任，做領導角色引導大家達成目標。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q9
+60. 當環境有條不紊，你最舒服；混亂或者難以預測嘅情況會令你有壓力。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q9
+61. 你鍾意同一小班好朋友一齊，多過參加大型聚會。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q9
+62. 面對多個選擇，你傾向跟感覺行，根據當時感覺做決定。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q9
+63. 你鍾意探索新概念同諗法，成日搵機會擴闊自己對世界嘅認識。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q9
+64. 你發現自己好易適應計劃改變或者突發情況，當係成長同學習機會。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q9
+65. 做項目嗰陣，你重視效率，想快靚正完成任務。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q9
+66. 你成日搵機會挑戰自己、突破極限，無論係體能定係腦力上。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q9
+67. 你鍾意專注當下，唔係成日掛住過去或者擔心將來。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q9
+68. 你鍾意參與熱烈辯論，同人分享你嘅觀點，同時聽唔同睇法。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q9
+69. 你對日常生活嘅結構同秩序有好強烈嘅渴求，跟慣例同時間表最自在。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q9
+70. 你傾向積極搵新體驗同機會，視改變為生活一部分。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q9
+71. 社交互動令你覺得精力充沛同興奮，成日想識新朋友同參與群體活動。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q9
+72. 做決定嗰陣，你優先考慮邏輯推理同客觀分析，睇事實同證據先行。  請你用五分制揀（5係最同意，1係最唔同意）。,,3,answer_q9
+73. 你傾向高度自我批評同內省，成日反思自己行為同決定，想進步。  請你用五分制揀（5係最同意，1係最唔同意）。,,4,answer_q9
+74. 就算你未經歷過相同情況，你都好易感受到人哋情緒，想支持同理解佢哋。  請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q9
+75. 你寧願有個明確計劃同方向，設定具體目標然後努力達成。請你用五分制揀（5係最同意，1係最唔同意）。,,5,answer_q9
+76. 根據剛才的回答，你覺得你係16種MBTI人格裡邊一種？請你用五分制揀（5係最同意，1係最唔同意）。,,"根據你的回答分析，你的MBTI類型傾向為 **ESFJ**（外向、實感、情感、判斷）。  
+
+推理過程如下：  
+1. **外向（E）**：你在社交互動、團隊合作等題目上分數偏高（如 Q2、Q7、Q12 等），顯示你傾向從外部世界獲得能量，喜歡與人相處。  
+2. **實感（S）**：多數回答偏向具體、實際的選項（如 Q4、Q9、Q16 等），較少選擇抽象或理論化的極端分數，反映你注重現實細節與經驗。  
+3. **情感（F）**：你在涉及人際和諧、價值觀的題目上（如 Q30、Q41、Q55 等）傾向選擇高分，顯示決策時優先考慮情感與他人感受。  
+4. **判斷（J）**：你在組織、計劃相關題目（如 Q44、Q50、Q64 等）上分數較高，顯示你偏好結構、明確的規劃而非隨性開放。  
+
+綜合來看，你的回答模式最符合 **ESFJ**（守護者／執政官）類型，特點是友善、負責、樂於助人，重視社會聯繫與實際貢獻。  
+
+**MBTI 類型：ESFJ**",answer_q9
