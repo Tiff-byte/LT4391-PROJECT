@@ -5,21 +5,21 @@ import pandas as pd
 os.environ['OPENAI_API_KEY'] = "sk-b90b89f5c7d2404496ed86b15b1bfaed"
 client = OpenAI(api_key=os.environ.get('OPENAI_API_KEY'), base_url="https://api.deepseek.com")
 
-# Read the CSV with BOM handling
+
 df = pd.read_csv("ENG_QUESTION_FYP3.csv", encoding='utf-8-sig')
 
-# Get the actual column names
+
 columns = df.columns.tolist()
 print("Found columns:", columns)
 
-# Find the questions column
+
 questions_col = None
 for col in columns:
     if 'question' in col.lower():
         questions_col = col
         break
 
-# If not found, use first column
+
 if questions_col is None:
     questions = df.iloc[:, 0]
 else:
@@ -34,7 +34,7 @@ for idx, q in enumerate(questions):
         
         scenario = "You are an university graduate who struggles with low self-esteem and emotional instability, feels influenced by the realities of life, has a large social circle, makes decisions based on intuition, is imaginative, and shows high adaptability."
         
-        # Special handling for the last question (MBTI question)
+       
         if idx == len(questions) - 1:  # Last question
             # Get all previous answers to provide context
             previous_answers = []
